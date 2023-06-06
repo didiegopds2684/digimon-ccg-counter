@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/didiegopds2684/digimon-ccg-counter/static/css/main.9be28688.css",
-    "main.js": "/didiegopds2684/digimon-ccg-counter/static/js/main.285950cf.js",
-    "static/js/787.9cff1b8b.chunk.js": "/didiegopds2684/digimon-ccg-counter/static/js/787.9cff1b8b.chunk.js",
-    "index.html": "/didiegopds2684/digimon-ccg-counter/index.html",
-    "main.9be28688.css.map": "/didiegopds2684/digimon-ccg-counter/static/css/main.9be28688.css.map",
-    "main.285950cf.js.map": "/didiegopds2684/digimon-ccg-counter/static/js/main.285950cf.js.map",
-    "787.9cff1b8b.chunk.js.map": "/didiegopds2684/digimon-ccg-counter/static/js/787.9cff1b8b.chunk.js.map"
+    "main.css": "/digimon-ccg-counter/static/css/main.9be28688.css",
+    "main.js": "/digimon-ccg-counter/static/js/main.ff2114c7.js",
+    "static/js/787.9cff1b8b.chunk.js": "/digimon-ccg-counter/static/js/787.9cff1b8b.chunk.js",
+    "index.html": "/digimon-ccg-counter/index.html",
+    "main.9be28688.css.map": "/digimon-ccg-counter/static/css/main.9be28688.css.map",
+    "main.ff2114c7.js.map": "/digimon-ccg-counter/static/js/main.ff2114c7.js.map",
+    "787.9cff1b8b.chunk.js.map": "/digimon-ccg-counter/static/js/787.9cff1b8b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9be28688.css",
-    "static/js/main.285950cf.js"
+    "static/js/main.ff2114c7.js"
   ]
 }
